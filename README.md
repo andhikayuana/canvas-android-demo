@@ -5,7 +5,6 @@
 - JDK 11
 - Android Studio Artic Fox + SDK
 
-## Screenshot
 ## Screenshots
 | HAPPY STATE | SAD STATE |
 |---|---|
